@@ -14,4 +14,4 @@
 ## Reinventing Bitcoin
 Welcome to CRYPT! We think it is time to face Bitcoin's biggest problem and start making Bitcoin usable by everyone and not only nerds and enthusiasts like us. We want Bitcoin to be as easy as swiping a credit card while also offering all other benefits of Bitcoin. If you want to be part of this journey please check out our [wiki](https://github.com/m4r1vs/CRYPT/wiki) where we describe how we want to make Bitcoin the worlds number one currency used by billions of people around the planet!
 ## Contribute
-To learn more about how you can contribute to this project please read the [contribution page](https://github.com/m4r1vs/CRYPT/wiki/contribute) of our wiki and change Bitcoin with us!
+To learn more about how you can contribute to this project please read the [contribution page](https://github.com/m4r1vs/CRYPT/wiki/contribute) of our wiki and change Bitcoin together with us!
