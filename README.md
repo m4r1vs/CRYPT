@@ -17,5 +17,5 @@ Welcome to CRYPT! We think it is time to face Bitcoin's biggest problem and star
 To learn more about how you can contribute to this project with your ideas and concepts please read the [contribution page](https://github.com/m4r1vs/CRYPT/wiki/contribute) of our wiki and change Bitcoin together with us! If you don't have enough time but like our concept we also need donations to keep this project alive. Further information on how to help us by donating is also available on our [wiki page](https://github.com/m4r1vs/CRYPT/wiki/contribute#donate).
 ## Links
 * Join [crypt-wallet.slack.com](https://join.slack.com/t/crypt-wallet/shared_invite/enQtMjg3MDkxODM3MDkxLTJhMDI3NjhmNzFkMjIyZGYwMTFjZjJjZjVhYmRiZTk3ZDU5MThjOTZhN2YxYTExZDk2NGIyOTE5ZjVlNjJlY2E)!
-* Visit our [wiki](https://github.com/m4r1vs/CRYPT/wiki)
+* Visit our [wiki](https://github.com/m4r1vs/CRYPT/wiki)!
 * Check out the [Lightning Network's GitHub](https://github.com/lightningnetwork/lnd)!
