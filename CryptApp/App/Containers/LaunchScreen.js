@@ -18,7 +18,7 @@ export default class LaunchScreen extends Component {
           <View style={styles.section} >
             <Image source={Images.ready} />
             <Text style={styles.sectionText}>
-              Congrats! CRYPT was build successfully! To reload the view double tap "R"!
+              Congrats! CRYPT was build successfully! To reload the view double tap "R" on your Keyboard!
             </Text>
           </View>
 
