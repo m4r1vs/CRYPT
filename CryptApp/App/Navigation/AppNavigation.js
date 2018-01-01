@@ -1,15 +1,15 @@
 import { StackNavigator } from 'react-navigation'
-import LaunchScreen from '../Containers/LaunchScreen'
+import CryptSetup from '../Containers/CryptSetup'
 
 import styles from './Styles/NavigationStyles'
 
 // Manifest of possible screens
 const PrimaryNav = StackNavigator({
-  LaunchScreen: { screen: LaunchScreen }
+  CryptSetup: { screen: CryptSetup }
 }, {
   // Default config for all screens
   headerMode: 'none',
-  initialRouteName: 'LaunchScreen',
+  initialRouteName: 'CryptSetup',
   navigationOptions: {
     headerStyle: styles.header
   }
