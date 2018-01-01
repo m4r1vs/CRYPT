@@ -1,9 +1,9 @@
 // leave off @2x/@3x
 const images = {
-  logo: require('../Images/ir.png'),
+  logo: require('../Images/crypt_logo.png'),
   clearLogo: require('../Images/top_logo.png'),
   launch: require('../Images/launch-icon.png'),
-  ready: require('../Images/your-app.png'),
+  ready: require('../Images/crypt_logo_text.png'),
   ignite: require('../Images/ignite_logo.png'),
   igniteClear: require('../Images/ignite-logo-transparent.png'),
   tileBg: require('../Images/tile_bg.png'),
