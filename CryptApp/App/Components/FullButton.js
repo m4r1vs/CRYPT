@@ -18,6 +18,7 @@ ExamplesRegistry.addComponentExample('Full Button', () =>
 )
 
 export default class FullButton extends Component {
+
   static propTypes = {
     text: PropTypes.string,
     onPress: PropTypes.func,
